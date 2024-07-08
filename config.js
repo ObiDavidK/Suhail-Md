@@ -25,8 +25,8 @@ global.caption = process.env.CAPTION || global.caption || "ᴘᴏᴡᴇʀᴇᴅ 
 
 
 global.devs = "923184474176" // Developer Contact
-global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "2349018909938";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2349018909938";
+global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "2347025822565";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2347025822565";
 
 
 
@@ -74,10 +74,10 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.8",
   caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "Obi David 😏😎",
-  packname: process.env.PACK_NAME || "Davis 😉",
-  botname : process.env.BOT_NAME  || "Davis 😉",
-  ownername:process.env.OWNER_NAME|| "Obi David 😏😎",
+  author : process.env.PACK_AUTHER|| "Danny",
+  packname: process.env.PACK_NAME || "Balls",
+  botname : process.env.BOT_NAME  || "Balls",
+  ownername:process.env.OWNER_NAME|| "Danny",
 
 
   errorChat : process.env.ERROR_CHAT || "",
